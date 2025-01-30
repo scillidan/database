@@ -1,0 +1,1 @@
+Maybe I will use the real `database` format and use [Datasette](https://github.com/simonw/datasette) to host and render it. For now, I edit files in Sublime Text. I can open them in the browser using [Markdown Reader](https://github.com/md-reader/md-reader).
