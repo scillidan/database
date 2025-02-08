@@ -15,6 +15,7 @@ blog  | `hisense a7`            | [The E-Ink Smartphone That I Adore & Despise -
 blog  | `immutable`             | [Immutable Linux Distros: Are They Right for You? Take the Test.](https://linuxblog.io/immutable-linux-distros-are-they-right-for-you-take-the-test/)
 blog  | `ink trap`              | [Ink traps and pals](https://tosche.net/blog/ink-traps-and-pals)
 blog  | `insurance`             | [When Is Insurance Worth It?](https://entropicthoughts.com/when-is-insurance-worth-it)
+blog  | `kafka`                 | [Franz Kafka – the workers’ friend](https://marywcraig.com/2018/01/14/franz-kafka-the-workers-friend/)
 blog  | `life lessons`          | [40 Life Lessons I Know at 40 (That I Wish I Knew at 20)](https://markmanson.medium.com/40-life-lessons-i-know-at-40-that-i-wish-i-knew-at-20-6fa878ce49c1)
 blog  | `llm`                   | [How I run LLMs locally](https://abishekmuthian.com/how-i-run-llms-locally)
 blog  | `lua`                   | [Pragmatic Lua Basics in 30 Minutes](https://ruoyusun.com/2013/03/23/pragmatic-lua-basics-in-30-mins.html)
