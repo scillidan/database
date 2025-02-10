@@ -1,4 +1,4 @@
-group    | tag                       | link
+wgroup   | tag                       | link
 :-       | :-                        | :-
 comment  | `seed`                    | [Daily Usenet Feed Size Hits 300TB](https://news.ycombinator.com/item?id=40927517)
 entry    | `/bin`                    | [What's the purpose of $HOME/bin directory?](https://askubuntu.com/questions/1408441/whats-the-purpose-of-home-bin-directory)
@@ -62,3 +62,7 @@ rhetoric | `tautology`               | [Etymonline](https://www.etymonline.com/s
 rhetoric | `pleonasm`                | [Etymonline](https://www.etymonline.com/search?q=pleonasm)
 rhetoric | `platitude`               | [Etymonline](https://www.etymonline.com/search?q=platitude)
 rhetoric | `oxymoron`                | [Etymonline](https://www.etymonline.com/search?q=oxymoron)
+sheet    | `html`                    | [HTML Characters Entities cheatsheet](https://cheatsheets.zip/html-char)
+sheet    | `regex`                   | [RegEX cheatsheet](https://cheatsheets.zip/regex)
+sheet    | `latex`                   | [LaTeX cheat sheet](https://wch.github.io/latexsheet/)
+sheet    | `rest`                    | [Sphinx reStructuredText (reST) Cheatsheet](https://github.com/radeklat/sphinx-rest-cheatsheet)
