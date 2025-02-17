@@ -23,6 +23,7 @@ entry    | `monospace`               | [The Monospace Web](https://owickstrom.gi
 entry    | `mp3 tag`                 | [Tag Field Mappings](https://docs.mp3tag.de/mapping/)
 entry    | `option`                  | [Etymonline](https://www.etymonline.com/word/option)
 entry    | `permissionless`          | [Permissionless.](https://www.permissionlessbook.com/)
+entry    | `property`                | [A holistic perspective on intellectual property, part 1](https://drewdevault.com/2025/02/13/2025-02-13-On-intellectual-property.html)
 entry    | `represent`               | [Etymonline](https://www.etymonline.com/word/represent)
 entry    | `rom`                     | [Dictionary of ROMhacking Terms](https://www.romhacking.net/dictionary/?page=dictionary)
 entry    | `self-contained`          | [jmdict-simplified](https://github.com/scriptin/jmdict-simplified#why)
