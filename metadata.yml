@@ -1,0 +1,30 @@
+title: database
+description: 
+license: ODbL
+license_url: https://opendatacommons.org/licenses/odbl/
+source: Original Data Source
+source_url: https://github.com/scillidan/database
+extra_css_urls:
+  - "https://cdn.jsdelivr.net/gh/julien040/charcoal-datasette-theme@1.0.0/theme.min.css"
+plugins:
+  datasette-sitemap:
+    query: |
+      select
+        '/reference/' || name as path from reference
+        union
+        '/resource/' || name as path from resource
+      union
+    database: content
+    base_url: https://scillidan.github.io/database
+  # datasette-parquet:
+  #   database:
+  #     directory: "data"
+  #     watch: true
+  # datasette-mask-columns:
+  #   civitai:
+  #     - mark
+  datasette-render-markdown:
+    columns:
+      - note
+  datasette-render-images:
+    size_limit: 1000000
