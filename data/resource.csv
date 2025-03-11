@@ -1,4 +1,6 @@
 "tag","mark","title","url","subscribe"
+"font,tool","later","handwriter.ttf","https://github.com/hsfzxjy/handwriter.ttf",""
+"model","later","NARUTO-HandSignDetection","https://github.com/Kazuhito00/NARUTO-HandSignDetection",""
 "3d","cache","Blender","https://github.com/blender/blender","download"
 "action","mark","GitLab Sync - GitHub Action","https://github.com/kujov/gitlab-sync",""
 "action,artifact","cache","upload-artifact","https://github.com/actions/upload-artifact",""
