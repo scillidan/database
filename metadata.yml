@@ -10,11 +10,10 @@ plugins:
   datasette-sitemap:
     query: |
       select
-        '/reference/' || name as path from reference
+        '/asset/' || name as path from asset
         union
-        '/resource/' || name as path from resource
-      union
-    database: content
+        '/font/' || name as path from font
+    database: asset
     base_url: https://scillidan.github.io/database
   # datasette-parquet:
   #   database:
@@ -26,5 +25,7 @@ plugins:
   datasette-render-markdown:
     columns:
       - note
-  datasette-render-images:
-    size_limit: 1000000
+  # datasette-render-images:
+  #   size_limit: 5000000
+  datasette-ripgrep:
+    path: "data"
